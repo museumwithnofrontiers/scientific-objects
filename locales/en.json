@@ -1,11 +1,11 @@
 {
-  "__SITE_NAMESPACE__.identity.organisation": "Museum With No Frontiers",
-  "__SITE_NAMESPACE__.identity.title": "__DATASET__",
-  "__SITE_NAMESPACE__.identity.copyright": "© Museum With No Frontiers",
-  "__SITE_NAMESPACE__.home.intro": "Welcome to __DATASET__.",
-  "__SITE_NAMESPACE__.home.catalogueText": "Browse every item by country and date.",
-  "__SITE_NAMESPACE__.home.itemOnDisplay": "Item on display",
-  "__SITE_NAMESPACE__.nav.catalogue": "Catalogue",
-  "__SITE_NAMESPACE__.nav.about": "About",
-  "__SITE_NAMESPACE__.about.body": "This website is published by Museum With No Frontiers. Replace this text with what __DATASET__ is and who made it."
+  "scientificObjects.identity.organisation": "Museum With No Frontiers",
+  "scientificObjects.identity.title": "scientific-objects",
+  "scientificObjects.identity.copyright": "© Museum With No Frontiers",
+  "scientificObjects.home.intro": "Welcome to scientific-objects.",
+  "scientificObjects.home.catalogueText": "Browse every item by country and date.",
+  "scientificObjects.home.itemOnDisplay": "Item on display",
+  "scientificObjects.nav.catalogue": "Catalogue",
+  "scientificObjects.nav.about": "About",
+  "scientificObjects.about.body": "This website is published by Museum With No Frontiers. Replace this text with what scientific-objects is and who made it."
 }
